@@ -1,9 +1,8 @@
 {
-	"template": {
-		"build": "webpack 构建",
-		"config": "项目配置信息",
-		"libs": "第三方类库",
-		"src": "项目工作目录",
-		"index": "首页"
+	"tpl": {
+		"simple": {
+			"url": "https://github.com/jiantao2017/gs-vue-template.git",
+			"branch": "master"
+		}
 	}
 }
