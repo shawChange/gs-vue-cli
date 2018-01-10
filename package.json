@@ -18,6 +18,6 @@
     "commander": "^2.12.2"
   },
   "bin": {
-    "frontend": "bin/frontend"
+    "gs-vue": "bin/frontend"
   }
 }

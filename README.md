@@ -3,5 +3,12 @@
 ### version
 1.0.0
 
+### install
+```json
+npm install gs-vue-cli -g
+```
+
 ### init
-`npm run init`
+```json
+gs-vue init
+```
