@@ -1,6 +1,6 @@
 {
-  "name": "frontend-template",
-  "version": "1.0.0",
+  "name": "gs-vue-cli",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,13 +19,5 @@
   },
   "bin": {
     "frontend": "bin/frontend"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jiayankai/gs-vue-cli.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jiayankai/gs-vue-cli/issues"
-  },
-  "homepage": "https://github.com/jiayankai/gs-vue-cli#readme"
+  }
 }
