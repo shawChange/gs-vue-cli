@@ -1,3 +1,8 @@
 {
-	"tpl": {}
+	"tpl": {
+		"simple": {
+			"url": "https://github.com/jiantao2017/gs-vue-template.git",
+			"branch": "master"
+		}
+	}
 }
