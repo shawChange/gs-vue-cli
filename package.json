@@ -1,0 +1,23 @@
+{
+  "name": "gs-vue-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinit": "npm install",
+    "init": "npm link",
+    "postinit": "frontend init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.12.2"
+  },
+  "bin": {
+    "gs-vue": "bin/frontend"
+  }
+}
